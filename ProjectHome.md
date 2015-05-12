@@ -1,0 +1,1 @@
+Space-shooter-themed game, implemented in (server/client)-side JavaScript and HTML5
